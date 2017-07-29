@@ -4,12 +4,16 @@ Talk to NYC uses [May First/People Link](https://mayfirst.org/en/index.html) for
 
 If you have any problems with your email, please [open an issue](). 
 
-*Steps*
+**Steps**
 
-1. Reset your account password.
-2. Configure your email client(s).
-3. Add signature.
-4. Send off an email to ensure everything's copacetic.
+1. [Reset your account password]().
+2. [Configure your email client(s)]().
+3. [Add signature]().
+4. [Send off an email to ensure everything's copacetic]().
+
+**Additional Resources**
+
+* [Using Webmail]()
 
 ## Reset your password 🙈.
 
@@ -52,3 +56,9 @@ _Add directions_
 ## Adding a signature
 
 _Add basic signature template_
+
+## Using Webmail
+
+1. Navigate to https://roundcube.mayfirst.org/
+2. Enter your username and password
+3. 🙌🏾📬

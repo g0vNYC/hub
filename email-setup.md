@@ -14,11 +14,12 @@ If you have any problems with your email, please [open an issue]().
 **Additional Resources**
 
 * [Using Webmail]()
+* [MFPL Email Server Configuration](https://support.mayfirst.org/wiki/faq/email/configure-email)
 
 ## Reset your password 🙈.
 
-1. Navigate to MFPL control panel. Login with the provided username and password.
-2. Enter a password of you choosing. 
+1. Navigate to [MFPL control panel](https://members.mayfirst.org/cp/_. Login with the provided username and password.
+2. Enter a new password. 
 
 ## Configure your Email Client
 

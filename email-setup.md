@@ -2,18 +2,18 @@
 
 Talk to NYC uses [May First/People Link](https://mayfirst.org/en/index.html) for email. MFPL provides a webmail interface, but it recommend that you setup your `@talkto.nyc` account via IMAP though your preferred client (ex. Gmail, MacMail). 
 
-If you have any problems with your email, please [open an issue](). 
+If you have any problems with your email, please [open an issue](https://github.com/g0vNYC/hub/issues/new). 
 
 **Steps**
 
-1. [Reset your account password]().
-2. [Configure your email client(s)]().
-3. [Add signature]().
-4. [Send off an email to ensure everything's copacetic]().
+1. [Reset your account password](#reset-your-password-).
+2. [Configure your email client(s)](#configure-your-email-clien).
+3. [Add signature](#adding-a-signature).
+4. Send off an email to ensure everything's copacetic.
 
 **Additional Resources**
 
-* [Using Webmail]()
+* [Using Webmail](#using-webmail)
 * [MFPL Email Server Configuration](https://support.mayfirst.org/wiki/faq/email/configure-email)
 
 ## Reset your password 🙈.

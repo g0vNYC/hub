@@ -15,9 +15,9 @@ If you'd like to join in on the conversation, great!
       * General (English): `#general-en`, `#north-america`
       * Other (Mixed): `#vtaiwan`, `#intl`
 3. Review the current list of projects and work with us!
-    * Visit our [public Kanban board][kanban] used to track the status of our many projects
-    * Visit our [GitHub organization][github] used to host our open-source software and all
-      important documents
+    * Visit our [public Kanban board][kanban] used to track the status of our projects
+    * Visit our [GitHub organization][github] used to host our
+      open-source software and other resources
 4. [Join us][video-calls] for a video call stand-up meeting, daily at 11am
    ET.
 

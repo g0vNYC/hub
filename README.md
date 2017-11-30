@@ -11,7 +11,7 @@ If you'd like to join in on the conversation, great!
     * Don't be alarmed that most channels are in mandarin! (g0v is a
       really rad civil society group that originates in Taiwan.)
     * Key places for conversation are:
-      * vNYC: `#vnyc-daily`, `#vnyc`, `#vnyc-grants-conf`, `#vnyc-articles`
+      * vNYC: [`#vnyc-daily`][slack-vnyc-daily], [`#vnyc`][slack-vnyc], [`#vnyc-grants-conf`][slack-vnyc-grants-conf], [`#vnyc-articles`][slack-vnyc-articles]
       * General (English): `#general-en`, `#north-america`
       * Other (Mixed): `#vtaiwan`, `#intl`
 3. Review the current list of projects and work with us!
@@ -29,3 +29,7 @@ If you'd like to join in on the conversation, great!
    [video-calls]: https://appear.in/vnyc
    [kanban]: https://trello.com/b/6MHFIpnA/g0vnyc-community-onboarding
    [github]: https://github.com/g0vnyc
+   [slack-vnyc-daily]: https://g0v-tw.slackarchive.io/vnyc-daily/
+   [slack-vnyc]: https://g0v-tw.slackarchive.io/vnyc/
+   [slack-vnyc-grants-conf]: https://g0v-tw.slackarchive.io/vnyc-grants-conf/
+   [slack-vnyc-articles]: https://g0v-tw.slackarchive.io/vnyc-articles/

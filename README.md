@@ -5,23 +5,26 @@
 
 If you'd like to join in on the conversation, great!
 
-1. Review our [Contributor Guidelines][contributing] and [Code of
+1. Read the Civicist article that brought us together: <br />
+    [vTaiwan: Public Participation Methods on the Cyberpunk Frontier of Democracy][civicist]
+2. Review our [Contributor Guidelines][contributing] and [Code of
    Conduct][conduct].
-2. [Sign up][join-g0v] for the Slack chat tool run by [g0v][about-g0v].
+3. [Sign up][join-g0v] for the Slack chat tool run by [g0v][about-g0v].
     * Don't be alarmed that most channels are in mandarin! (g0v is a
       really rad civil society group that originates in Taiwan.)
     * Key places for conversation are:
       * vNYC: [`#vnyc-daily`][slack-vnyc-daily], [`#vnyc`][slack-vnyc], [`#vnyc-grants-conf`][slack-vnyc-grants-conf], [`#vnyc-articles`][slack-vnyc-articles]
       * General (English): `#general-en`, `#north-america`
       * Other (Mixed): `#vtaiwan`, `#intl`
-3. Review the current list of projects and work with us!
+4. Review the current list of projects and work with us!
     * Visit our [public Kanban board][kanban] used to track the status of our projects
     * Visit our [GitHub organization][github] used to host our
       open-source software and other resources
-4. [Join us][video-calls] for a video call stand-up meeting, daily at 11am
+5. [Join us][video-calls] for a video call stand-up meeting, daily at 11am
    ET.
 
 <!-- Links -->
+   [civicist]: https://civichall.org/civicist/vtaiwan-democracy-frontier/
    [contributing]: CONTRIBUTING.md
    [conduct]: CONDUCT.md
    [join-g0v]: http://join.g0v.today/
